@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>http://www.clinicalgenomics.se/chanjo/</loc>
+     <lastmod>2020-04-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://www.clinicalgenomics.se/chanjo/topics/installation/</loc>
+     <lastmod>2020-04-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://www.clinicalgenomics.se/chanjo/topics/demo/</loc>
+     <lastmod>2020-04-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://www.clinicalgenomics.se/chanjo/topics/developer/</loc>
+     <lastmod>2020-04-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
